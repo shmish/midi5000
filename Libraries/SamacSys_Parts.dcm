@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP PTV09A-4025F-B103
+D Potentiometer 9mm horizontal 10K flat
+K
+F https://www.bourns.com/docs/Product-Datasheets/PTV09.pdf
+$ENDCMP
+#
+$CMP RS6011SP6003
+D Slide Potentiometers Single Unit, 60mm Vertical Type
+K
+F https://www.alps.com/prod/info/E/HTML/Potentiometer/SlidePotentiometers/RS6011P/RS6011SP6003.html
+$ENDCMP
+#
+#End Doc Library

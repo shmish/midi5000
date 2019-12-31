@@ -1,0 +1,9 @@
+Manufacturer=ALPS
+PartNumber=RS6011SP6003
+PartCategory=Variable Resistor
+PackageCategory=Other
+PinCount=8
+Version=1.2
+Released=2019-09-27 15:07:09
+Downloaded=2019-12-27 02:12:08
+3D=Y

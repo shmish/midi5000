@@ -1,0 +1,15 @@
+Bill of Materials,,,,,,,,
+,,,,,,,,
+Component,Qty,Value,Part,Description,Manufacturer,Vendor,unit price (C$),total
+C1,1,100 nF,,Capacitor to smooth power start,,,,$1.00
+"D1, D2, D3, D4",4,LED,,5mm red LED,,,,$1.00
+J1,1,Conn_01x04,,4 pin Jumper header for USB power,,,,$1.00
+"R1,2,3,4",4,130,,resistors for LED on 3V,,,,$1.00
+"R5,6,7,8",4,10k,,resistors for pull-down switch,,,,$1.00
+"SVR1,2,3,4",4,10k,RS6011SP6003,slide potentiometers,Alps,Mouser,$3.41,$13.64
+"SW1,2,3,4",4,SW_Push,1543-650-149,SPST latch switch,Bourns,Mouser,$1.53,$6.12
+VR1-20,20,10k,PTV09A-4025F-B103,rotary potentiometer,Bourns,Mouser,$1.05,$21.00
+"TB1, 2",2,,CD74HC4067,16 channel multiplexer,Sparkfun,Lee's,$7.00,$14.00
+U1,1,,Teensy 4.0,Teensy 4.0 with usb cable,PJRC,PJRC,$35.00,$35.00
+PCB,1,,MIDI 5000,PCB,JLCPCB,JLCPCB,$30.00,$30.00
+,,,,,,,,$124.76
