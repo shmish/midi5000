@@ -1,3 +1,6 @@
 (fp_lib_table
   (lib (name "midi controller")(type KiCad)(uri "${KIPRJMOD}/midi controller.pretty")(options "")(descr ""))
+  (lib (name Teensy)(type KiCad)(uri ${KIPRJMOD}/Libraries/Teensy.pretty)(options "")(descr ""))
+  (lib (name SamacSys_Parts)(type KiCad)(uri ${KIPRJMOD}/Libraries/SamacSys_Parts.pretty)(options "")(descr ""))
+  (lib (name PTA6043-2015CPB103)(type KiCad)(uri ${KIPRJMOD}/Libraries/PTA6043-2015CPB103.pretty)(options "")(descr ""))
 )

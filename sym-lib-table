@@ -1,3 +1,5 @@
 (sym_lib_table
   (lib (name midi-controller-rescue)(type Legacy)(uri "${KIPRJMOD}/midi controller-rescue.lib")(options "")(descr ""))
+  (lib (name teensy)(type Legacy)(uri ${KIPRJMOD}/Libraries/Teensy/teensy.lib)(options "")(descr ""))
+  (lib (name PTA6043-2015CPB103)(type Legacy)(uri ${KIPRJMOD}/Libraries/PTA6043-2015CPB103.pretty/PTA6043-2015CPB103.lib)(options "")(descr ""))
 )

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="D">
   <design>
-    <source>C:\Users\dwsmith\Documents\KiCAD\Midi Controller\midi controller\midi controller.sch</source>
-    <date>12/30/2019 10:13:22 AM</date>
+    <source>C:\Users\Doug\OneDrive\KiCAD\Midi Controller\midi controller\midi controller.sch</source>
+    <date>8/3/2020 4:01:32 PM</date>
     <tool>Eeschema (5.1.5)-3</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -19,70 +19,6 @@
     </sheet>
   </design>
   <components>
-    <comp ref="SVR1">
-      <value>RS6011SP6003</value>
-      <footprint>SamacSys_Parts:RS6011SP6003</footprint>
-      <datasheet>https://componentsearchengine.com/Datasheets/1/RS6011SP6003.pdf</datasheet>
-      <fields>
-        <field name="Description">Slide Potentiometers Single Unit, 60mm Vertical Type</field>
-        <field name="Height">7</field>
-        <field name="Manufacturer_Name">ALPS</field>
-        <field name="Manufacturer_Part_Number">RS6011SP6003</field>
-        <field name="Mouser Part Number">688-RS6011SP6003</field>
-        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=688-RS6011SP6003</field>
-      </fields>
-      <libsource lib="RS6011SP6003" part="RS6011SP6003" description="Slide Potentiometers Single Unit, 60mm Vertical Type"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>5E056A8B</tstamp>
-    </comp>
-    <comp ref="SVR2">
-      <value>RS6011SP6003</value>
-      <footprint>SamacSys_Parts:RS6011SP6003</footprint>
-      <datasheet>https://componentsearchengine.com/Datasheets/1/RS6011SP6003.pdf</datasheet>
-      <fields>
-        <field name="Description">Slide Potentiometers Single Unit, 60mm Vertical Type</field>
-        <field name="Height">7</field>
-        <field name="Manufacturer_Name">ALPS</field>
-        <field name="Manufacturer_Part_Number">RS6011SP6003</field>
-        <field name="Mouser Part Number">688-RS6011SP6003</field>
-        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=688-RS6011SP6003</field>
-      </fields>
-      <libsource lib="RS6011SP6003" part="RS6011SP6003" description="Slide Potentiometers Single Unit, 60mm Vertical Type"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>5E05F984</tstamp>
-    </comp>
-    <comp ref="SVR3">
-      <value>RS6011SP6003</value>
-      <footprint>SamacSys_Parts:RS6011SP6003</footprint>
-      <datasheet>https://componentsearchengine.com/Datasheets/1/RS6011SP6003.pdf</datasheet>
-      <fields>
-        <field name="Description">Slide Potentiometers Single Unit, 60mm Vertical Type</field>
-        <field name="Height">7</field>
-        <field name="Manufacturer_Name">ALPS</field>
-        <field name="Manufacturer_Part_Number">RS6011SP6003</field>
-        <field name="Mouser Part Number">688-RS6011SP6003</field>
-        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=688-RS6011SP6003</field>
-      </fields>
-      <libsource lib="RS6011SP6003" part="RS6011SP6003" description="Slide Potentiometers Single Unit, 60mm Vertical Type"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>5E06048E</tstamp>
-    </comp>
-    <comp ref="SVR4">
-      <value>RS6011SP6003</value>
-      <footprint>SamacSys_Parts:RS6011SP6003</footprint>
-      <datasheet>https://componentsearchengine.com/Datasheets/1/RS6011SP6003.pdf</datasheet>
-      <fields>
-        <field name="Description">Slide Potentiometers Single Unit, 60mm Vertical Type</field>
-        <field name="Height">7</field>
-        <field name="Manufacturer_Name">ALPS</field>
-        <field name="Manufacturer_Part_Number">RS6011SP6003</field>
-        <field name="Mouser Part Number">688-RS6011SP6003</field>
-        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=688-RS6011SP6003</field>
-      </fields>
-      <libsource lib="RS6011SP6003" part="RS6011SP6003" description="Slide Potentiometers Single Unit, 60mm Vertical Type"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>5E060AFC</tstamp>
-    </comp>
     <comp ref="VR1">
       <value>PTV09A-4025F-B103</value>
       <footprint>SamacSys_Parts:PTV09A4015FB103</footprint>
@@ -95,7 +31,7 @@
         <field name="Mouser Part Number">652-PTV09A-4025FB103</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=652-PTV09A-4025FB103</field>
       </fields>
-      <libsource lib="PTV09A-4025F-B103" part="PTV09A-4025F-B103" description="Potentiometer 9mm horizontal 10K flat"/>
+      <libsource lib="midi-controller-rescue" part="PTV09A-4025F-B103-PTV09A-4025F-B103" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E06698D</tstamp>
     </comp>
@@ -111,7 +47,7 @@
         <field name="Mouser Part Number">652-PTV09A-4025FB103</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=652-PTV09A-4025FB103</field>
       </fields>
-      <libsource lib="PTV09A-4025F-B103" part="PTV09A-4025F-B103" description="Potentiometer 9mm horizontal 10K flat"/>
+      <libsource lib="midi-controller-rescue" part="PTV09A-4025F-B103-PTV09A-4025F-B103" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E067609</tstamp>
     </comp>
@@ -127,7 +63,7 @@
         <field name="Mouser Part Number">652-PTV09A-4025FB103</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=652-PTV09A-4025FB103</field>
       </fields>
-      <libsource lib="PTV09A-4025F-B103" part="PTV09A-4025F-B103" description="Potentiometer 9mm horizontal 10K flat"/>
+      <libsource lib="midi-controller-rescue" part="PTV09A-4025F-B103-PTV09A-4025F-B103" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E069B22</tstamp>
     </comp>
@@ -143,7 +79,7 @@
         <field name="Mouser Part Number">652-PTV09A-4025FB103</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=652-PTV09A-4025FB103</field>
       </fields>
-      <libsource lib="PTV09A-4025F-B103" part="PTV09A-4025F-B103" description="Potentiometer 9mm horizontal 10K flat"/>
+      <libsource lib="midi-controller-rescue" part="PTV09A-4025F-B103-PTV09A-4025F-B103" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E06A3E7</tstamp>
     </comp>
@@ -159,7 +95,7 @@
         <field name="Mouser Part Number">652-PTV09A-4025FB103</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=652-PTV09A-4025FB103</field>
       </fields>
-      <libsource lib="PTV09A-4025F-B103" part="PTV09A-4025F-B103" description="Potentiometer 9mm horizontal 10K flat"/>
+      <libsource lib="midi-controller-rescue" part="PTV09A-4025F-B103-PTV09A-4025F-B103" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E070AD4</tstamp>
     </comp>
@@ -175,7 +111,7 @@
         <field name="Mouser Part Number">652-PTV09A-4025FB103</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=652-PTV09A-4025FB103</field>
       </fields>
-      <libsource lib="PTV09A-4025F-B103" part="PTV09A-4025F-B103" description="Potentiometer 9mm horizontal 10K flat"/>
+      <libsource lib="midi-controller-rescue" part="PTV09A-4025F-B103-PTV09A-4025F-B103" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E07113E</tstamp>
     </comp>
@@ -191,7 +127,7 @@
         <field name="Mouser Part Number">652-PTV09A-4025FB103</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=652-PTV09A-4025FB103</field>
       </fields>
-      <libsource lib="PTV09A-4025F-B103" part="PTV09A-4025F-B103" description="Potentiometer 9mm horizontal 10K flat"/>
+      <libsource lib="midi-controller-rescue" part="PTV09A-4025F-B103-PTV09A-4025F-B103" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E071A32</tstamp>
     </comp>
@@ -207,7 +143,7 @@
         <field name="Mouser Part Number">652-PTV09A-4025FB103</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=652-PTV09A-4025FB103</field>
       </fields>
-      <libsource lib="PTV09A-4025F-B103" part="PTV09A-4025F-B103" description="Potentiometer 9mm horizontal 10K flat"/>
+      <libsource lib="midi-controller-rescue" part="PTV09A-4025F-B103-PTV09A-4025F-B103" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E072327</tstamp>
     </comp>
@@ -223,7 +159,7 @@
         <field name="Mouser Part Number">652-PTV09A-4025FB103</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=652-PTV09A-4025FB103</field>
       </fields>
-      <libsource lib="PTV09A-4025F-B103" part="PTV09A-4025F-B103" description="Potentiometer 9mm horizontal 10K flat"/>
+      <libsource lib="midi-controller-rescue" part="PTV09A-4025F-B103-PTV09A-4025F-B103" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E072C49</tstamp>
     </comp>
@@ -239,7 +175,7 @@
         <field name="Mouser Part Number">652-PTV09A-4025FB103</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=652-PTV09A-4025FB103</field>
       </fields>
-      <libsource lib="PTV09A-4025F-B103" part="PTV09A-4025F-B103" description="Potentiometer 9mm horizontal 10K flat"/>
+      <libsource lib="midi-controller-rescue" part="PTV09A-4025F-B103-PTV09A-4025F-B103" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E0734C7</tstamp>
     </comp>
@@ -255,7 +191,7 @@
         <field name="Mouser Part Number">652-PTV09A-4025FB103</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=652-PTV09A-4025FB103</field>
       </fields>
-      <libsource lib="PTV09A-4025F-B103" part="PTV09A-4025F-B103" description="Potentiometer 9mm horizontal 10K flat"/>
+      <libsource lib="midi-controller-rescue" part="PTV09A-4025F-B103-PTV09A-4025F-B103" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E073C8B</tstamp>
     </comp>
@@ -271,7 +207,7 @@
         <field name="Mouser Part Number">652-PTV09A-4025FB103</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=652-PTV09A-4025FB103</field>
       </fields>
-      <libsource lib="PTV09A-4025F-B103" part="PTV09A-4025F-B103" description="Potentiometer 9mm horizontal 10K flat"/>
+      <libsource lib="midi-controller-rescue" part="PTV09A-4025F-B103-PTV09A-4025F-B103" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E0745FD</tstamp>
     </comp>
@@ -287,7 +223,7 @@
         <field name="Mouser Part Number">652-PTV09A-4025FB103</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=652-PTV09A-4025FB103</field>
       </fields>
-      <libsource lib="PTV09A-4025F-B103" part="PTV09A-4025F-B103" description="Potentiometer 9mm horizontal 10K flat"/>
+      <libsource lib="midi-controller-rescue" part="PTV09A-4025F-B103-PTV09A-4025F-B103" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E074D76</tstamp>
     </comp>
@@ -303,7 +239,7 @@
         <field name="Mouser Part Number">652-PTV09A-4025FB103</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=652-PTV09A-4025FB103</field>
       </fields>
-      <libsource lib="PTV09A-4025F-B103" part="PTV09A-4025F-B103" description="Potentiometer 9mm horizontal 10K flat"/>
+      <libsource lib="midi-controller-rescue" part="PTV09A-4025F-B103-PTV09A-4025F-B103" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E0756C9</tstamp>
     </comp>
@@ -319,7 +255,7 @@
         <field name="Mouser Part Number">652-PTV09A-4025FB103</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=652-PTV09A-4025FB103</field>
       </fields>
-      <libsource lib="PTV09A-4025F-B103" part="PTV09A-4025F-B103" description="Potentiometer 9mm horizontal 10K flat"/>
+      <libsource lib="midi-controller-rescue" part="PTV09A-4025F-B103-PTV09A-4025F-B103" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E076167</tstamp>
     </comp>
@@ -335,7 +271,7 @@
         <field name="Mouser Part Number">652-PTV09A-4025FB103</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=652-PTV09A-4025FB103</field>
       </fields>
-      <libsource lib="PTV09A-4025F-B103" part="PTV09A-4025F-B103" description="Potentiometer 9mm horizontal 10K flat"/>
+      <libsource lib="midi-controller-rescue" part="PTV09A-4025F-B103-PTV09A-4025F-B103" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E076F29</tstamp>
     </comp>
@@ -351,7 +287,7 @@
         <field name="Mouser Part Number">652-PTV09A-4025FB103</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=652-PTV09A-4025FB103</field>
       </fields>
-      <libsource lib="PTV09A-4025F-B103" part="PTV09A-4025F-B103" description="Potentiometer 9mm horizontal 10K flat"/>
+      <libsource lib="midi-controller-rescue" part="PTV09A-4025F-B103-PTV09A-4025F-B103" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E077B15</tstamp>
     </comp>
@@ -367,7 +303,7 @@
         <field name="Mouser Part Number">652-PTV09A-4025FB103</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=652-PTV09A-4025FB103</field>
       </fields>
-      <libsource lib="PTV09A-4025F-B103" part="PTV09A-4025F-B103" description="Potentiometer 9mm horizontal 10K flat"/>
+      <libsource lib="midi-controller-rescue" part="PTV09A-4025F-B103-PTV09A-4025F-B103" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E0788BA</tstamp>
     </comp>
@@ -383,7 +319,7 @@
         <field name="Mouser Part Number">652-PTV09A-4025FB103</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=652-PTV09A-4025FB103</field>
       </fields>
-      <libsource lib="PTV09A-4025F-B103" part="PTV09A-4025F-B103" description="Potentiometer 9mm horizontal 10K flat"/>
+      <libsource lib="midi-controller-rescue" part="PTV09A-4025F-B103-PTV09A-4025F-B103" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E07930F</tstamp>
     </comp>
@@ -399,7 +335,7 @@
         <field name="Mouser Part Number">652-PTV09A-4025FB103</field>
         <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=652-PTV09A-4025FB103</field>
       </fields>
-      <libsource lib="PTV09A-4025F-B103" part="PTV09A-4025F-B103" description="Potentiometer 9mm horizontal 10K flat"/>
+      <libsource lib="midi-controller-rescue" part="PTV09A-4025F-B103-PTV09A-4025F-B103" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E079DB2</tstamp>
     </comp>
@@ -534,7 +470,7 @@
     <comp ref="U1">
       <value>Teensy4.0-d</value>
       <footprint>teensy:Teensy40</footprint>
-      <libsource lib="teensy" part="Teensy4.0-d" description=""/>
+      <libsource lib="midi-controller-rescue" part="Teensy4.0-d-teensy" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5E8F3B05</tstamp>
     </comp>
@@ -555,7 +491,7 @@
       <tstamp>5EE5B87A</tstamp>
     </comp>
     <comp ref="TB2">
-      <value>BOB-09056</value>
+      <value>CD74HC4067</value>
       <footprint>midi controller:BOB-Mux</footprint>
       <datasheet>SparkFun Electronics</datasheet>
       <fields>
@@ -563,12 +499,12 @@
         <field name="Field5">Manufacturer Recommendations</field>
         <field name="Field6">N/A</field>
       </fields>
-      <libsource lib="midi-controller-rescue" part="BOB-09056-BOB-09056" description=""/>
+      <libsource lib="midi-controller-rescue" part="CD74HC4067-midi-components" description=""/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>5E0821BF</tstamp>
+      <tstamp>5E363AC7</tstamp>
     </comp>
     <comp ref="TB1">
-      <value>BOB-09056</value>
+      <value>CD74HC4067</value>
       <footprint>midi controller:BOB-Mux</footprint>
       <datasheet>SparkFun Electronics</datasheet>
       <fields>
@@ -576,9 +512,73 @@
         <field name="Field5">Manufacturer Recommendations</field>
         <field name="Field6">N/A</field>
       </fields>
-      <libsource lib="midi-controller-rescue" part="BOB-09056-BOB-09056" description=""/>
+      <libsource lib="midi-controller-rescue" part="CD74HC4067-midi-components" description=""/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>5E08A2FC</tstamp>
+      <tstamp>5E36ACE6</tstamp>
+    </comp>
+    <comp ref="SVR1">
+      <value>PTA6043-2015CPB103</value>
+      <footprint>PTA6043-2015CPB103:PTA60432015CPB103</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/PTA6043-2015CPB103.pdf</datasheet>
+      <fields>
+        <field name="Description">Slide Potentiometers 10K LINEAR</field>
+        <field name="Height">20.7</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">PTA6043-2015CPB103</field>
+        <field name="Mouser Part Number">652-PTA6432015CPB103</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=652-PTA6432015CPB103</field>
+      </fields>
+      <libsource lib="PTA6043-2015CPB103" part="PTA6043-2015CPB103" description="Slide Potentiometers 10K LINEAR"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EAE2DC8</tstamp>
+    </comp>
+    <comp ref="SVR3">
+      <value>PTA6043-2015CPB103</value>
+      <footprint>PTA6043-2015CPB103:PTA60432015CPB103</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/PTA6043-2015CPB103.pdf</datasheet>
+      <fields>
+        <field name="Description">Slide Potentiometers 10K LINEAR</field>
+        <field name="Height">20.7</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">PTA6043-2015CPB103</field>
+        <field name="Mouser Part Number">652-PTA6432015CPB103</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=652-PTA6432015CPB103</field>
+      </fields>
+      <libsource lib="PTA6043-2015CPB103" part="PTA6043-2015CPB103" description="Slide Potentiometers 10K LINEAR"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EEA0D74</tstamp>
+    </comp>
+    <comp ref="SVR4">
+      <value>PTA6043-2015CPB103</value>
+      <footprint>PTA6043-2015CPB103:PTA60432015CPB103</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/PTA6043-2015CPB103.pdf</datasheet>
+      <fields>
+        <field name="Description">Slide Potentiometers 10K LINEAR</field>
+        <field name="Height">20.7</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">PTA6043-2015CPB103</field>
+        <field name="Mouser Part Number">652-PTA6432015CPB103</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=652-PTA6432015CPB103</field>
+      </fields>
+      <libsource lib="PTA6043-2015CPB103" part="PTA6043-2015CPB103" description="Slide Potentiometers 10K LINEAR"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EF50BCE</tstamp>
+    </comp>
+    <comp ref="SVR2">
+      <value>PTA6043-2015CPB103</value>
+      <footprint>PTA6043-2015CPB103:PTA60432015CPB103</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/PTA6043-2015CPB103.pdf</datasheet>
+      <fields>
+        <field name="Description">Slide Potentiometers 10K LINEAR</field>
+        <field name="Height">20.7</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">PTA6043-2015CPB103</field>
+        <field name="Mouser Part Number">652-PTA6432015CPB103</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=652-PTA6432015CPB103</field>
+      </fields>
+      <libsource lib="PTA6043-2015CPB103" part="PTA6043-2015CPB103" description="Slide Potentiometers 10K LINEAR"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5ECC2841</tstamp>
     </comp>
   </components>
   <libparts>
@@ -646,20 +646,20 @@
         <pin num="2" name="~" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="PTV09A-4025F-B103" part="PTV09A-4025F-B103">
-      <description>Potentiometer 9mm horizontal 10K flat</description>
-      <docs>https://componentsearchengine.com/Datasheets/1/PTV09A-4025F-B103.pdf</docs>
+    <libpart lib="PTA6043-2015CPB103" part="PTA6043-2015CPB103">
+      <description>Slide Potentiometers 10K LINEAR</description>
+      <docs>https://componentsearchengine.com/Datasheets/1/PTA6043-2015CPB103.pdf</docs>
       <fields>
         <field name="Reference">VR</field>
-        <field name="Value">PTV09A-4025F-B103</field>
-        <field name="Footprint">PTV09A4015FB103</field>
-        <field name="Datasheet">https://componentsearchengine.com/Datasheets/1/PTV09A-4025F-B103.pdf</field>
-        <field name="Description">Potentiometer 9mm horizontal 10K flat</field>
-        <field name="Height">15.5</field>
-        <field name="Mouser Part Number">652-PTV09A-4025FB103</field>
-        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=652-PTV09A-4025FB103</field>
+        <field name="Value">PTA6043-2015CPB103</field>
+        <field name="Footprint">PTA60432015CPB103</field>
+        <field name="Datasheet">https://componentsearchengine.com/Datasheets/1/PTA6043-2015CPB103.pdf</field>
+        <field name="Description">Slide Potentiometers 10K LINEAR</field>
+        <field name="Height">20.7</field>
+        <field name="Mouser Part Number">652-PTA6432015CPB103</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=652-PTA6432015CPB103</field>
         <field name="Manufacturer_Name">Bourns</field>
-        <field name="Manufacturer_Part_Number">PTV09A-4025F-B103</field>
+        <field name="Manufacturer_Part_Number">PTA6043-2015CPB103</field>
       </fields>
       <pins>
         <pin num="1" name="CCW" type="passive"/>
@@ -667,32 +667,8 @@
         <pin num="3" name="CW" type="passive"/>
         <pin num="MH1" name="MH1" type="passive"/>
         <pin num="MH2" name="MH2" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="RS6011SP6003" part="RS6011SP6003">
-      <description>Slide Potentiometers Single Unit, 60mm Vertical Type</description>
-      <docs>https://componentsearchengine.com/Datasheets/1/RS6011SP6003.pdf</docs>
-      <fields>
-        <field name="Reference">VR</field>
-        <field name="Value">RS6011SP6003</field>
-        <field name="Footprint">RS6011SP6003</field>
-        <field name="Datasheet">https://componentsearchengine.com/Datasheets/1/RS6011SP6003.pdf</field>
-        <field name="Description">Slide Potentiometers Single Unit, 60mm Vertical Type</field>
-        <field name="Height">7</field>
-        <field name="Mouser Part Number">688-RS6011SP6003</field>
-        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=688-RS6011SP6003</field>
-        <field name="Manufacturer_Name">ALPS</field>
-        <field name="Manufacturer_Part_Number">RS6011SP6003</field>
-      </fields>
-      <pins>
-        <pin num="1" name="CCW" type="passive"/>
-        <pin num="2" name="WIPER" type="passive"/>
-        <pin num="3" name="CW" type="passive"/>
-        <pin num="L1" name="LUG_TERMINAL_1" type="passive"/>
-        <pin num="L2" name="LUG_TERMINAL_2" type="passive"/>
-        <pin num="L3" name="LUG_TERMINAL_3" type="passive"/>
-        <pin num="MH1" name="MH1" type="passive"/>
-        <pin num="MH2" name="MH2" type="passive"/>
+        <pin num="MH3" name="MH3" type="passive"/>
+        <pin num="MH4" name="MH4" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="Switch" part="SW_Push">
@@ -707,10 +683,10 @@
         <pin num="2" name="2" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="midi-controller-rescue" part="BOB-09056-BOB-09056">
+    <libpart lib="midi-controller-rescue" part="CD74HC4067-midi-components">
       <fields>
         <field name="Reference">TB</field>
-        <field name="Value">BOB-09056-BOB-09056</field>
+        <field name="Value">CD74HC4067-midi-components</field>
         <field name="Footprint">XDCR_BOB-09056</field>
         <field name="Datasheet">SparkFun Electronics</field>
         <field name="Field4">N/A</field>
@@ -744,10 +720,31 @@
         <pin num="24" name="C15" type="input"/>
       </pins>
     </libpart>
-    <libpart lib="teensy" part="Teensy4.0-d">
+    <libpart lib="midi-controller-rescue" part="PTV09A-4025F-B103-PTV09A-4025F-B103">
+      <fields>
+        <field name="Reference">VR</field>
+        <field name="Value">PTV09A-4025F-B103-PTV09A-4025F-B103</field>
+        <field name="Footprint">PTV09A4015FB103</field>
+        <field name="Datasheet">https://componentsearchengine.com/Datasheets/1/PTV09A-4025F-B103.pdf</field>
+        <field name="Description">Potentiometer 9mm horizontal 10K flat</field>
+        <field name="Height">15.5</field>
+        <field name="Mouser Part Number">652-PTV09A-4025FB103</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=652-PTV09A-4025FB103</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">PTV09A-4025F-B103</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CCW" type="passive"/>
+        <pin num="2" name="WIPER" type="passive"/>
+        <pin num="3" name="CW" type="passive"/>
+        <pin num="MH1" name="MH1" type="passive"/>
+        <pin num="MH2" name="MH2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="midi-controller-rescue" part="Teensy4.0-d-teensy">
       <fields>
         <field name="Reference">U</field>
-        <field name="Value">Teensy4.0-d</field>
+        <field name="Value">Teensy4.0-d-teensy</field>
       </fields>
       <pins>
         <pin num="1" name="GND" type="power_in"/>
@@ -794,538 +791,520 @@
     <library logical="Device">
       <uri>C:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
     </library>
-    <library logical="PTV09A-4025F-B103">
-      <uri>C:/Users/dwsmith/Documents/KiCAD/Libraries/PTV09A-4025F-B103/KiCad/PTV09A-4025F-B103.lib</uri>
-    </library>
-    <library logical="RS6011SP6003">
-      <uri>C:/Users/dwsmith/Documents/KiCAD/Libraries/RS6011SP6003/KiCad/RS6011SP6003.lib</uri>
+    <library logical="PTA6043-2015CPB103">
+      <uri>C:\Users\Doug\OneDrive\KiCAD\Midi Controller\midi controller/Libraries/PTA6043-2015CPB103.pretty/PTA6043-2015CPB103.lib</uri>
     </library>
     <library logical="Switch">
       <uri>C:\Program Files\KiCad\share\kicad\library/Switch.lib</uri>
     </library>
     <library logical="midi-controller-rescue">
-      <uri>C:\Users\dwsmith\Documents\KiCAD\Midi Controller\midi controller/midi controller-rescue.lib</uri>
-    </library>
-    <library logical="teensy">
-      <uri>C:/Users/dwsmith/Documents/KiCAD/Libraries/Teensy/teensy.lib</uri>
+      <uri>C:\Users\Doug\OneDrive\KiCAD\Midi Controller\midi controller/midi controller-rescue.lib</uri>
     </library>
   </libraries>
   <nets>
-    <net code="1" name="Net-(D4-Pad2)">
-      <node ref="D4" pin="2"/>
-      <node ref="R4" pin="1"/>
+    <net code="1" name="Net-(VR5-PadMH1)">
+      <node ref="VR5" pin="MH1"/>
     </net>
-    <net code="2" name="Net-(D2-Pad2)">
-      <node ref="D2" pin="2"/>
-      <node ref="R2" pin="1"/>
+    <net code="2" name="Net-(VR10-PadMH2)">
+      <node ref="VR10" pin="MH2"/>
     </net>
-    <net code="3" name="/LD3">
-      <node ref="R2" pin="2"/>
-      <node ref="U1" pin="6"/>
+    <net code="3" name="Net-(VR10-PadMH1)">
+      <node ref="VR10" pin="MH1"/>
     </net>
-    <net code="4" name="Net-(D3-Pad2)">
-      <node ref="D3" pin="2"/>
-      <node ref="R3" pin="1"/>
+    <net code="4" name="Net-(VR11-PadMH1)">
+      <node ref="VR11" pin="MH1"/>
     </net>
-    <net code="5" name="/LD2">
-      <node ref="R3" pin="2"/>
-      <node ref="U1" pin="7"/>
+    <net code="5" name="Net-(VR11-PadMH2)">
+      <node ref="VR11" pin="MH2"/>
     </net>
-    <net code="6" name="/LD1">
+    <net code="6" name="Net-(VR12-PadMH1)">
+      <node ref="VR12" pin="MH1"/>
+    </net>
+    <net code="7" name="Net-(VR12-PadMH2)">
+      <node ref="VR12" pin="MH2"/>
+    </net>
+    <net code="8" name="Net-(VR8-PadMH2)">
+      <node ref="VR8" pin="MH2"/>
+    </net>
+    <net code="9" name="Net-(VR8-PadMH1)">
+      <node ref="VR8" pin="MH1"/>
+    </net>
+    <net code="10" name="Net-(VR7-PadMH2)">
+      <node ref="VR7" pin="MH2"/>
+    </net>
+    <net code="11" name="Net-(VR7-PadMH1)">
+      <node ref="VR7" pin="MH1"/>
+    </net>
+    <net code="12" name="Net-(VR6-PadMH2)">
+      <node ref="VR6" pin="MH2"/>
+    </net>
+    <net code="13" name="Net-(VR6-PadMH1)">
+      <node ref="VR6" pin="MH1"/>
+    </net>
+    <net code="14" name="Net-(VR5-PadMH2)">
+      <node ref="VR5" pin="MH2"/>
+    </net>
+    <net code="15" name="Net-(VR9-PadMH1)">
+      <node ref="VR9" pin="MH1"/>
+    </net>
+    <net code="16" name="Net-(VR1-PadMH1)">
+      <node ref="VR1" pin="MH1"/>
+    </net>
+    <net code="17" name="Net-(VR1-PadMH2)">
+      <node ref="VR1" pin="MH2"/>
+    </net>
+    <net code="18" name="Net-(VR2-PadMH1)">
+      <node ref="VR2" pin="MH1"/>
+    </net>
+    <net code="19" name="Net-(VR2-PadMH2)">
+      <node ref="VR2" pin="MH2"/>
+    </net>
+    <net code="20" name="Net-(VR3-PadMH1)">
+      <node ref="VR3" pin="MH1"/>
+    </net>
+    <net code="21" name="Net-(VR3-PadMH2)">
+      <node ref="VR3" pin="MH2"/>
+    </net>
+    <net code="22" name="Net-(VR4-PadMH1)">
+      <node ref="VR4" pin="MH1"/>
+    </net>
+    <net code="23" name="Net-(VR4-PadMH2)">
+      <node ref="VR4" pin="MH2"/>
+    </net>
+    <net code="24" name="Net-(VR18-PadMH1)">
+      <node ref="VR18" pin="MH1"/>
+    </net>
+    <net code="25" name="Net-(VR18-PadMH2)">
+      <node ref="VR18" pin="MH2"/>
+    </net>
+    <net code="26" name="Net-(VR19-PadMH1)">
+      <node ref="VR19" pin="MH1"/>
+    </net>
+    <net code="27" name="Net-(VR19-PadMH2)">
+      <node ref="VR19" pin="MH2"/>
+    </net>
+    <net code="28" name="Net-(U1-Pad13)">
+      <node ref="U1" pin="13"/>
+    </net>
+    <net code="31" name="Net-(U1-Pad14)">
+      <node ref="U1" pin="14"/>
+    </net>
+    <net code="32" name="Net-(VR20-PadMH1)">
+      <node ref="VR20" pin="MH1"/>
+    </net>
+    <net code="33" name="Net-(U1-Pad4)">
+      <node ref="U1" pin="4"/>
+    </net>
+    <net code="34" name="Net-(U1-Pad3)">
+      <node ref="U1" pin="3"/>
+    </net>
+    <net code="35" name="Net-(U1-Pad2)">
+      <node ref="U1" pin="2"/>
+    </net>
+    <net code="36" name="Net-(VR16-PadMH2)">
+      <node ref="VR16" pin="MH2"/>
+    </net>
+    <net code="37" name="Net-(VR16-PadMH1)">
+      <node ref="VR16" pin="MH1"/>
+    </net>
+    <net code="38" name="Net-(VR15-PadMH2)">
+      <node ref="VR15" pin="MH2"/>
+    </net>
+    <net code="39" name="Net-(VR15-PadMH1)">
+      <node ref="VR15" pin="MH1"/>
+    </net>
+    <net code="40" name="Net-(VR14-PadMH2)">
+      <node ref="VR14" pin="MH2"/>
+    </net>
+    <net code="41" name="Net-(VR14-PadMH1)">
+      <node ref="VR14" pin="MH1"/>
+    </net>
+    <net code="42" name="Net-(VR13-PadMH2)">
+      <node ref="VR13" pin="MH2"/>
+    </net>
+    <net code="43" name="Net-(VR13-PadMH1)">
+      <node ref="VR13" pin="MH1"/>
+    </net>
+    <net code="44" name="Net-(VR9-PadMH2)">
+      <node ref="VR9" pin="MH2"/>
+    </net>
+    <net code="45" name="Net-(U1-Pad32)">
+      <node ref="U1" pin="32"/>
+    </net>
+    <net code="46" name="+3V3">
+      <node ref="U1" pin="16"/>
+    </net>
+    <net code="47" name="Net-(U1-Pad33)">
+      <node ref="U1" pin="33"/>
+    </net>
+    <net code="48" name="Net-(U1-Pad30)">
+      <node ref="U1" pin="30"/>
+    </net>
+    <net code="49" name="Net-(U1-Pad29)">
+      <node ref="U1" pin="29"/>
+    </net>
+    <net code="50" name="Net-(U1-Pad28)">
+      <node ref="U1" pin="28"/>
+    </net>
+    <net code="51" name="Net-(U1-Pad20)">
+      <node ref="U1" pin="20"/>
+    </net>
+    <net code="52" name="Net-(U1-Pad15)">
+      <node ref="U1" pin="15"/>
+    </net>
+    <net code="53" name="Net-(U1-Pad17)">
+      <node ref="U1" pin="17"/>
+    </net>
+    <net code="54" name="Net-(U1-Pad18)">
+      <node ref="U1" pin="18"/>
+    </net>
+    <net code="55" name="Net-(U1-Pad19)">
+      <node ref="U1" pin="19"/>
+    </net>
+    <net code="56" name="Net-(VR20-PadMH2)">
+      <node ref="VR20" pin="MH2"/>
+    </net>
+    <net code="57" name="Net-(VR17-PadMH1)">
+      <node ref="VR17" pin="MH1"/>
+    </net>
+    <net code="58" name="Net-(VR17-PadMH2)">
+      <node ref="VR17" pin="MH2"/>
+    </net>
+    <net code="59" name="/LD1">
       <node ref="U1" pin="8"/>
       <node ref="R4" pin="2"/>
     </net>
-    <net code="7" name="GND">
-      <node ref="TB1" pin="3"/>
-      <node ref="R5" pin="2"/>
-      <node ref="C1" pin="2"/>
-      <node ref="U1" pin="1"/>
-      <node ref="J1" pin="4"/>
-      <node ref="TB2" pin="3"/>
-      <node ref="TB1" pin="1"/>
-      <node ref="TB2" pin="1"/>
-      <node ref="VR5" pin="1"/>
-      <node ref="VR1" pin="1"/>
-      <node ref="VR9" pin="1"/>
-      <node ref="VR13" pin="1"/>
-      <node ref="VR2" pin="1"/>
-      <node ref="SVR2" pin="1"/>
-      <node ref="SVR3" pin="1"/>
-      <node ref="SVR4" pin="1"/>
-      <node ref="R7" pin="2"/>
-      <node ref="VR16" pin="1"/>
-      <node ref="D2" pin="1"/>
-      <node ref="D3" pin="1"/>
-      <node ref="D4" pin="1"/>
-      <node ref="VR17" pin="1"/>
-      <node ref="VR18" pin="1"/>
-      <node ref="R6" pin="2"/>
-      <node ref="R8" pin="2"/>
-      <node ref="D1" pin="1"/>
-      <node ref="VR19" pin="1"/>
-      <node ref="VR20" pin="1"/>
-      <node ref="VR7" pin="1"/>
-      <node ref="VR11" pin="1"/>
-      <node ref="VR15" pin="1"/>
-      <node ref="VR4" pin="1"/>
-      <node ref="VR8" pin="1"/>
-      <node ref="VR12" pin="1"/>
-      <node ref="VR6" pin="1"/>
-      <node ref="VR10" pin="1"/>
-      <node ref="VR14" pin="1"/>
-      <node ref="SVR1" pin="1"/>
-      <node ref="VR3" pin="1"/>
+    <net code="60" name="/LD4">
+      <node ref="U1" pin="5"/>
+      <node ref="R1" pin="2"/>
     </net>
-    <net code="8" name="Net-(D1-Pad2)">
-      <node ref="D1" pin="2"/>
-      <node ref="R1" pin="1"/>
+    <net code="61" name="/LD3">
+      <node ref="R2" pin="2"/>
+      <node ref="U1" pin="6"/>
     </net>
-    <net code="9" name="/SW1">
+    <net code="62" name="/LD2">
+      <node ref="R3" pin="2"/>
+      <node ref="U1" pin="7"/>
+    </net>
+    <net code="63" name="/SW1">
       <node ref="R8" pin="1"/>
-      <node ref="SW4" pin="1"/>
       <node ref="U1" pin="9"/>
+      <node ref="SW4" pin="1"/>
     </net>
-    <net code="10" name="/SW2">
-      <node ref="SW3" pin="1"/>
-      <node ref="R7" pin="1"/>
+    <net code="64" name="/SW2">
       <node ref="U1" pin="10"/>
+      <node ref="R7" pin="1"/>
+      <node ref="SW3" pin="1"/>
     </net>
-    <net code="11" name="/SW3">
+    <net code="65" name="/SW3">
       <node ref="U1" pin="11"/>
       <node ref="R6" pin="1"/>
       <node ref="SW2" pin="1"/>
     </net>
-    <net code="12" name="/SW4">
+    <net code="66" name="/SW4">
       <node ref="U1" pin="12"/>
       <node ref="SW1" pin="1"/>
       <node ref="R5" pin="1"/>
     </net>
-    <net code="13" name="/LD4">
-      <node ref="R1" pin="2"/>
-      <node ref="U1" pin="5"/>
+    <net code="67" name="Net-(TB1-Pad21)">
+      <node ref="TB1" pin="21"/>
     </net>
-    <net code="14" name="Net-(VR9-PadMH1)">
-      <node ref="VR9" pin="MH1"/>
+    <net code="68" name="Net-(TB1-Pad17)">
+      <node ref="TB1" pin="17"/>
     </net>
-    <net code="15" name="Net-(U1-Pad13)">
-      <node ref="U1" pin="13"/>
+    <net code="69" name="Net-(TB1-Pad18)">
+      <node ref="TB1" pin="18"/>
     </net>
-    <net code="16" name="Net-(U1-Pad4)">
-      <node ref="U1" pin="4"/>
+    <net code="70" name="Net-(TB1-Pad19)">
+      <node ref="TB1" pin="19"/>
     </net>
-    <net code="17" name="Net-(U1-Pad3)">
-      <node ref="U1" pin="3"/>
+    <net code="71" name="Net-(TB1-Pad20)">
+      <node ref="TB1" pin="20"/>
     </net>
-    <net code="18" name="Net-(U1-Pad2)">
-      <node ref="U1" pin="2"/>
+    <net code="72" name="Net-(TB1-Pad22)">
+      <node ref="TB1" pin="22"/>
     </net>
-    <net code="19" name="Net-(VR16-PadMH2)">
-      <node ref="VR16" pin="MH2"/>
+    <net code="73" name="Net-(TB1-Pad23)">
+      <node ref="TB1" pin="23"/>
     </net>
-    <net code="20" name="Net-(VR16-PadMH1)">
-      <node ref="VR16" pin="MH1"/>
+    <net code="74" name="Net-(TB1-Pad24)">
+      <node ref="TB1" pin="24"/>
     </net>
-    <net code="21" name="Net-(VR15-PadMH2)">
-      <node ref="VR15" pin="MH2"/>
+    <net code="75" name="Net-(D2-Pad2)">
+      <node ref="R2" pin="1"/>
+      <node ref="D2" pin="2"/>
     </net>
-    <net code="22" name="Net-(VR15-PadMH1)">
-      <node ref="VR15" pin="MH1"/>
+    <net code="76" name="Net-(D3-Pad2)">
+      <node ref="R3" pin="1"/>
+      <node ref="D3" pin="2"/>
     </net>
-    <net code="23" name="Net-(VR14-PadMH2)">
-      <node ref="VR14" pin="MH2"/>
+    <net code="77" name="Net-(D4-Pad2)">
+      <node ref="R4" pin="1"/>
+      <node ref="D4" pin="2"/>
     </net>
-    <net code="24" name="Net-(VR14-PadMH1)">
-      <node ref="VR14" pin="MH1"/>
+    <net code="78" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2"/>
+      <node ref="R1" pin="1"/>
     </net>
-    <net code="25" name="Net-(VR13-PadMH2)">
-      <node ref="VR13" pin="MH2"/>
-    </net>
-    <net code="26" name="Net-(VR13-PadMH1)">
-      <node ref="VR13" pin="MH1"/>
-    </net>
-    <net code="27" name="Net-(VR9-PadMH2)">
-      <node ref="VR9" pin="MH2"/>
-    </net>
-    <net code="28" name="Net-(U1-Pad14)">
-      <node ref="U1" pin="14"/>
-    </net>
-    <net code="29" name="Net-(VR10-PadMH2)">
-      <node ref="VR10" pin="MH2"/>
-    </net>
-    <net code="30" name="Net-(VR10-PadMH1)">
-      <node ref="VR10" pin="MH1"/>
-    </net>
-    <net code="31" name="Net-(VR11-PadMH1)">
-      <node ref="VR11" pin="MH1"/>
-    </net>
-    <net code="32" name="Net-(VR11-PadMH2)">
-      <node ref="VR11" pin="MH2"/>
-    </net>
-    <net code="33" name="Net-(VR12-PadMH1)">
-      <node ref="VR12" pin="MH1"/>
-    </net>
-    <net code="34" name="Net-(VR12-PadMH2)">
-      <node ref="VR12" pin="MH2"/>
-    </net>
-    <net code="35" name="Net-(VR8-PadMH2)">
-      <node ref="VR8" pin="MH2"/>
-    </net>
-    <net code="36" name="Net-(VR8-PadMH1)">
-      <node ref="VR8" pin="MH1"/>
-    </net>
-    <net code="37" name="Net-(VR7-PadMH2)">
-      <node ref="VR7" pin="MH2"/>
-    </net>
-    <net code="38" name="Net-(VR7-PadMH1)">
-      <node ref="VR7" pin="MH1"/>
-    </net>
-    <net code="39" name="Net-(VR6-PadMH2)">
-      <node ref="VR6" pin="MH2"/>
-    </net>
-    <net code="40" name="Net-(VR6-PadMH1)">
-      <node ref="VR6" pin="MH1"/>
-    </net>
-    <net code="41" name="Net-(SVR1-PadL2)">
-      <node ref="SVR1" pin="L2"/>
-    </net>
-    <net code="42" name="Net-(SVR1-PadL3)">
-      <node ref="SVR1" pin="L3"/>
-    </net>
-    <net code="43" name="Net-(SVR2-PadL2)">
-      <node ref="SVR2" pin="L2"/>
-    </net>
-    <net code="44" name="Net-(SVR2-PadL3)">
-      <node ref="SVR2" pin="L3"/>
-    </net>
-    <net code="45" name="Net-(SVR2-PadL1)">
-      <node ref="SVR2" pin="L1"/>
-    </net>
-    <net code="46" name="Net-(SVR3-PadL1)">
-      <node ref="SVR3" pin="L1"/>
-    </net>
-    <net code="47" name="Net-(SVR3-PadL3)">
-      <node ref="SVR3" pin="L3"/>
-    </net>
-    <net code="48" name="Net-(SVR3-PadL2)">
-      <node ref="SVR3" pin="L2"/>
-    </net>
-    <net code="49" name="Net-(SVR4-PadL2)">
-      <node ref="SVR4" pin="L2"/>
-    </net>
-    <net code="50" name="Net-(SVR4-PadL3)">
-      <node ref="SVR4" pin="L3"/>
-    </net>
-    <net code="51" name="Net-(SVR4-PadL1)">
-      <node ref="SVR4" pin="L1"/>
-    </net>
-    <net code="52" name="Net-(SVR1-PadL1)">
-      <node ref="SVR1" pin="L1"/>
-    </net>
-    <net code="55" name="/PT19">
-      <node ref="VR19" pin="2"/>
-      <node ref="TB1" pin="15"/>
-    </net>
-    <net code="56" name="/PT18">
-      <node ref="VR18" pin="2"/>
-      <node ref="TB1" pin="14"/>
-    </net>
-    <net code="57" name="/SL2">
-      <node ref="SVR2" pin="2"/>
-      <node ref="TB1" pin="11"/>
-    </net>
-    <net code="58" name="/SL1">
+    <net code="79" name="/SL1">
       <node ref="TB1" pin="12"/>
       <node ref="SVR1" pin="2"/>
     </net>
-    <net code="59" name="Net-(TB1-Pad18)">
-      <node ref="TB1" pin="18"/>
+    <net code="80" name="Net-(SVR1-PadMH1)">
+      <node ref="SVR1" pin="MH1"/>
     </net>
-    <net code="60" name="Net-(TB1-Pad17)">
-      <node ref="TB1" pin="17"/>
+    <net code="81" name="Net-(SVR1-PadMH2)">
+      <node ref="SVR1" pin="MH2"/>
     </net>
-    <net code="61" name="Net-(VR5-PadMH2)">
-      <node ref="VR5" pin="MH2"/>
+    <net code="82" name="Net-(SVR1-PadMH3)">
+      <node ref="SVR1" pin="MH3"/>
     </net>
-    <net code="62" name="Net-(TB1-Pad19)">
-      <node ref="TB1" pin="19"/>
+    <net code="83" name="Net-(SVR1-PadMH4)">
+      <node ref="SVR1" pin="MH4"/>
     </net>
-    <net code="63" name="Net-(TB1-Pad20)">
-      <node ref="TB1" pin="20"/>
+    <net code="84" name="Net-(SVR3-PadMH1)">
+      <node ref="SVR3" pin="MH1"/>
     </net>
-    <net code="64" name="Net-(TB1-Pad21)">
-      <node ref="TB1" pin="21"/>
+    <net code="85" name="Net-(SVR3-PadMH2)">
+      <node ref="SVR3" pin="MH2"/>
     </net>
-    <net code="65" name="Net-(TB1-Pad22)">
-      <node ref="TB1" pin="22"/>
+    <net code="86" name="Net-(SVR3-PadMH3)">
+      <node ref="SVR3" pin="MH3"/>
     </net>
-    <net code="66" name="Net-(TB1-Pad23)">
-      <node ref="TB1" pin="23"/>
+    <net code="87" name="Net-(SVR3-PadMH4)">
+      <node ref="SVR3" pin="MH4"/>
     </net>
-    <net code="67" name="Net-(TB1-Pad24)">
-      <node ref="TB1" pin="24"/>
+    <net code="88" name="Net-(SVR4-PadMH1)">
+      <node ref="SVR4" pin="MH1"/>
     </net>
-    <net code="68" name="Net-(J1-Pad3)">
+    <net code="89" name="Net-(SVR4-PadMH2)">
+      <node ref="SVR4" pin="MH2"/>
+    </net>
+    <net code="90" name="Net-(SVR4-PadMH3)">
+      <node ref="SVR4" pin="MH3"/>
+    </net>
+    <net code="91" name="Net-(SVR4-PadMH4)">
+      <node ref="SVR4" pin="MH4"/>
+    </net>
+    <net code="92" name="Net-(SVR2-PadMH4)">
+      <node ref="SVR2" pin="MH4"/>
+    </net>
+    <net code="93" name="Net-(SVR2-PadMH2)">
+      <node ref="SVR2" pin="MH2"/>
+    </net>
+    <net code="94" name="Net-(SVR2-PadMH3)">
+      <node ref="SVR2" pin="MH3"/>
+    </net>
+    <net code="95" name="Net-(SVR2-PadMH1)">
+      <node ref="SVR2" pin="MH1"/>
+    </net>
+    <net code="96" name="Net-(J1-Pad3)">
       <node ref="J1" pin="3"/>
     </net>
-    <net code="69" name="Net-(J1-Pad2)">
+    <net code="97" name="Net-(J1-Pad2)">
       <node ref="J1" pin="2"/>
     </net>
-    <net code="70" name="/PT1">
-      <node ref="VR13" pin="2"/>
-      <node ref="TB2" pin="24"/>
-    </net>
-    <net code="71" name="VUSB">
-      <node ref="C1" pin="1"/>
-      <node ref="J1" pin="1"/>
-      <node ref="U1" pin="34"/>
-    </net>
-    <net code="72" name="Net-(TB2-Pad8)">
-      <node ref="U1" pin="21"/>
-      <node ref="TB2" pin="8"/>
-    </net>
-    <net code="73" name="Net-(TB1-Pad8)">
-      <node ref="TB1" pin="8"/>
-      <node ref="U1" pin="26"/>
-    </net>
-    <net code="74" name="Net-(U1-Pad27)">
-      <node ref="U1" pin="27"/>
-    </net>
-    <net code="76" name="Net-(TB1-Pad4)">
-      <node ref="TB2" pin="4"/>
-      <node ref="U1" pin="22"/>
-      <node ref="TB1" pin="4"/>
-    </net>
-    <net code="77" name="Net-(TB1-Pad5)">
-      <node ref="TB2" pin="5"/>
-      <node ref="U1" pin="23"/>
-      <node ref="TB1" pin="5"/>
-    </net>
-    <net code="78" name="Net-(TB1-Pad6)">
-      <node ref="TB2" pin="6"/>
-      <node ref="TB1" pin="6"/>
-      <node ref="U1" pin="24"/>
-    </net>
-    <net code="79" name="Net-(TB1-Pad7)">
-      <node ref="TB2" pin="7"/>
-      <node ref="U1" pin="25"/>
-      <node ref="TB1" pin="7"/>
-    </net>
-    <net code="80" name="3V3">
-      <node ref="VR10" pin="3"/>
-      <node ref="VR14" pin="3"/>
+    <net code="98" name="3V3">
+      <node ref="VR15" pin="3"/>
+      <node ref="VR20" pin="3"/>
+      <node ref="VR8" pin="3"/>
+      <node ref="VR1" pin="3"/>
+      <node ref="VR11" pin="3"/>
+      <node ref="VR7" pin="3"/>
       <node ref="VR3" pin="3"/>
+      <node ref="VR14" pin="3"/>
+      <node ref="VR12" pin="3"/>
+      <node ref="VR10" pin="3"/>
+      <node ref="VR6" pin="3"/>
+      <node ref="VR9" pin="3"/>
+      <node ref="VR13" pin="3"/>
+      <node ref="VR2" pin="3"/>
+      <node ref="U1" pin="31"/>
+      <node ref="VR4" pin="3"/>
+      <node ref="VR19" pin="3"/>
       <node ref="TB2" pin="2"/>
-      <node ref="TB1" pin="2"/>
+      <node ref="VR17" pin="3"/>
+      <node ref="VR18" pin="3"/>
+      <node ref="VR5" pin="3"/>
+      <node ref="SW1" pin="2"/>
       <node ref="SW2" pin="2"/>
       <node ref="SW3" pin="2"/>
       <node ref="SW4" pin="2"/>
-      <node ref="SW1" pin="2"/>
-      <node ref="VR16" pin="3"/>
-      <node ref="VR18" pin="3"/>
-      <node ref="VR8" pin="3"/>
-      <node ref="SVR3" pin="3"/>
-      <node ref="SVR2" pin="3"/>
-      <node ref="VR4" pin="3"/>
-      <node ref="VR12" pin="3"/>
-      <node ref="VR7" pin="3"/>
-      <node ref="VR2" pin="3"/>
-      <node ref="VR15" pin="3"/>
-      <node ref="U1" pin="31"/>
       <node ref="SVR1" pin="3"/>
-      <node ref="VR17" pin="3"/>
-      <node ref="VR20" pin="3"/>
-      <node ref="VR11" pin="3"/>
-      <node ref="VR13" pin="3"/>
-      <node ref="VR19" pin="3"/>
-      <node ref="VR9" pin="3"/>
+      <node ref="SVR3" pin="3"/>
       <node ref="SVR4" pin="3"/>
-      <node ref="VR6" pin="3"/>
-      <node ref="VR5" pin="3"/>
-      <node ref="VR1" pin="3"/>
+      <node ref="TB1" pin="2"/>
+      <node ref="SVR2" pin="3"/>
+      <node ref="VR16" pin="3"/>
     </net>
-    <net code="81" name="/PT16">
+    <net code="99" name="Net-(TB2-Pad8)">
+      <node ref="U1" pin="21"/>
+      <node ref="TB2" pin="8"/>
+    </net>
+    <net code="100" name="Net-(TB1-Pad8)">
+      <node ref="TB1" pin="8"/>
+      <node ref="U1" pin="26"/>
+    </net>
+    <net code="101" name="Net-(U1-Pad27)">
+      <node ref="U1" pin="27"/>
+    </net>
+    <net code="102" name="VUSB">
+      <node ref="J1" pin="1"/>
+      <node ref="U1" pin="34"/>
+      <node ref="C1" pin="1"/>
+    </net>
+    <net code="103" name="/PT4">
+      <node ref="TB2" pin="21"/>
+      <node ref="VR1" pin="2"/>
+    </net>
+    <net code="104" name="/PT14">
+      <node ref="VR12" pin="2"/>
+      <node ref="TB2" pin="10"/>
+    </net>
+    <net code="105" name="/PT15">
+      <node ref="VR8" pin="2"/>
+      <node ref="TB2" pin="11"/>
+    </net>
+    <net code="106" name="/PT16">
       <node ref="VR4" pin="2"/>
       <node ref="TB2" pin="12"/>
     </net>
-    <net code="82" name="/PT17">
-      <node ref="TB1" pin="13"/>
-      <node ref="VR17" pin="2"/>
-    </net>
-    <net code="83" name="Net-(VR17-PadMH1)">
-      <node ref="VR17" pin="MH1"/>
-    </net>
-    <net code="84" name="Net-(VR17-PadMH2)">
-      <node ref="VR17" pin="MH2"/>
-    </net>
-    <net code="85" name="Net-(VR19-PadMH2)">
-      <node ref="VR19" pin="MH2"/>
-    </net>
-    <net code="86" name="Net-(VR5-PadMH1)">
-      <node ref="VR5" pin="MH1"/>
-    </net>
-    <net code="87" name="Net-(VR1-PadMH1)">
-      <node ref="VR1" pin="MH1"/>
-    </net>
-    <net code="88" name="Net-(VR1-PadMH2)">
-      <node ref="VR1" pin="MH2"/>
-    </net>
-    <net code="89" name="Net-(VR2-PadMH1)">
-      <node ref="VR2" pin="MH1"/>
-    </net>
-    <net code="90" name="Net-(VR2-PadMH2)">
-      <node ref="VR2" pin="MH2"/>
-    </net>
-    <net code="91" name="Net-(VR3-PadMH1)">
-      <node ref="VR3" pin="MH1"/>
-    </net>
-    <net code="92" name="Net-(VR3-PadMH2)">
-      <node ref="VR3" pin="MH2"/>
-    </net>
-    <net code="93" name="Net-(VR4-PadMH1)">
-      <node ref="VR4" pin="MH1"/>
-    </net>
-    <net code="94" name="Net-(VR4-PadMH2)">
-      <node ref="VR4" pin="MH2"/>
-    </net>
-    <net code="95" name="Net-(VR18-PadMH1)">
-      <node ref="VR18" pin="MH1"/>
-    </net>
-    <net code="96" name="Net-(VR18-PadMH2)">
-      <node ref="VR18" pin="MH2"/>
-    </net>
-    <net code="97" name="Net-(VR19-PadMH1)">
-      <node ref="VR19" pin="MH1"/>
-    </net>
-    <net code="98" name="Net-(VR20-PadMH1)">
-      <node ref="VR20" pin="MH1"/>
-    </net>
-    <net code="99" name="Net-(VR20-PadMH2)">
-      <node ref="VR20" pin="MH2"/>
-    </net>
-    <net code="100" name="Net-(SVR1-PadMH1)">
-      <node ref="SVR1" pin="MH1"/>
-    </net>
-    <net code="101" name="Net-(SVR1-PadMH2)">
-      <node ref="SVR1" pin="MH2"/>
-    </net>
-    <net code="102" name="Net-(SVR2-PadMH1)">
-      <node ref="SVR2" pin="MH1"/>
-    </net>
-    <net code="103" name="Net-(SVR2-PadMH2)">
-      <node ref="SVR2" pin="MH2"/>
-    </net>
-    <net code="104" name="Net-(SVR3-PadMH1)">
-      <node ref="SVR3" pin="MH1"/>
-    </net>
-    <net code="105" name="Net-(SVR3-PadMH2)">
-      <node ref="SVR3" pin="MH2"/>
-    </net>
-    <net code="106" name="Net-(SVR4-PadMH1)">
-      <node ref="SVR4" pin="MH1"/>
-    </net>
-    <net code="107" name="Net-(SVR4-PadMH2)">
-      <node ref="SVR4" pin="MH2"/>
-    </net>
-    <net code="108" name="Net-(U1-Pad15)">
-      <node ref="U1" pin="15"/>
-    </net>
-    <net code="109" name="+3V3">
-      <node ref="U1" pin="16"/>
-    </net>
-    <net code="110" name="Net-(U1-Pad17)">
-      <node ref="U1" pin="17"/>
-    </net>
-    <net code="111" name="Net-(U1-Pad18)">
-      <node ref="U1" pin="18"/>
-    </net>
-    <net code="112" name="Net-(U1-Pad19)">
-      <node ref="U1" pin="19"/>
-    </net>
-    <net code="113" name="Net-(U1-Pad20)">
-      <node ref="U1" pin="20"/>
-    </net>
-    <net code="114" name="Net-(U1-Pad28)">
-      <node ref="U1" pin="28"/>
-    </net>
-    <net code="115" name="Net-(U1-Pad29)">
-      <node ref="U1" pin="29"/>
-    </net>
-    <net code="116" name="Net-(U1-Pad30)">
-      <node ref="U1" pin="30"/>
-    </net>
-    <net code="117" name="Net-(U1-Pad32)">
-      <node ref="U1" pin="32"/>
-    </net>
-    <net code="118" name="Net-(U1-Pad33)">
-      <node ref="U1" pin="33"/>
-    </net>
-    <net code="119" name="/PT20">
-      <node ref="VR20" pin="2"/>
-      <node ref="TB1" pin="16"/>
-    </net>
-    <net code="120" name="/PT3">
-      <node ref="TB2" pin="22"/>
-      <node ref="VR5" pin="2"/>
-    </net>
-    <net code="121" name="/PT4">
-      <node ref="VR1" pin="2"/>
-      <node ref="TB2" pin="21"/>
-    </net>
-    <net code="122" name="/PT5">
-      <node ref="VR14" pin="2"/>
-      <node ref="TB2" pin="17"/>
-    </net>
-    <net code="123" name="/PT6">
-      <node ref="VR10" pin="2"/>
-      <node ref="TB2" pin="18"/>
-    </net>
-    <net code="124" name="/PT7">
-      <node ref="TB2" pin="19"/>
-      <node ref="VR6" pin="2"/>
-    </net>
-    <net code="125" name="/PT8">
-      <node ref="TB2" pin="20"/>
-      <node ref="VR2" pin="2"/>
-    </net>
-    <net code="126" name="/PT9">
-      <node ref="VR15" pin="2"/>
-      <node ref="TB2" pin="16"/>
-    </net>
-    <net code="127" name="/PT10">
-      <node ref="TB2" pin="15"/>
-      <node ref="VR11" pin="2"/>
-    </net>
-    <net code="128" name="/PT11">
-      <node ref="TB2" pin="14"/>
-      <node ref="VR7" pin="2"/>
-    </net>
-    <net code="129" name="/PT12">
+    <net code="107" name="/PT12">
       <node ref="VR3" pin="2"/>
       <node ref="TB2" pin="13"/>
     </net>
-    <net code="130" name="/PT13">
-      <node ref="VR16" pin="2"/>
-      <node ref="TB2" pin="9"/>
+    <net code="108" name="/PT11">
+      <node ref="TB2" pin="14"/>
+      <node ref="VR7" pin="2"/>
     </net>
-    <net code="131" name="/PT14">
-      <node ref="TB2" pin="10"/>
-      <node ref="VR12" pin="2"/>
+    <net code="109" name="/PT10">
+      <node ref="VR11" pin="2"/>
+      <node ref="TB2" pin="15"/>
     </net>
-    <net code="132" name="/PT15">
-      <node ref="TB2" pin="11"/>
-      <node ref="VR8" pin="2"/>
+    <net code="110" name="/PT9">
+      <node ref="TB2" pin="16"/>
+      <node ref="VR15" pin="2"/>
     </net>
-    <net code="133" name="/PT2">
+    <net code="111" name="/PT5">
+      <node ref="TB2" pin="17"/>
+      <node ref="VR14" pin="2"/>
+    </net>
+    <net code="112" name="/PT6">
+      <node ref="VR10" pin="2"/>
+      <node ref="TB2" pin="18"/>
+    </net>
+    <net code="113" name="/PT7">
+      <node ref="VR6" pin="2"/>
+      <node ref="TB2" pin="19"/>
+    </net>
+    <net code="114" name="/PT8">
+      <node ref="TB2" pin="20"/>
+      <node ref="VR2" pin="2"/>
+    </net>
+    <net code="115" name="GND">
+      <node ref="D2" pin="1"/>
+      <node ref="VR16" pin="1"/>
+      <node ref="SVR2" pin="1"/>
+      <node ref="D4" pin="1"/>
+      <node ref="D3" pin="1"/>
+      <node ref="VR12" pin="1"/>
+      <node ref="SVR4" pin="1"/>
+      <node ref="D1" pin="1"/>
+      <node ref="SVR1" pin="1"/>
+      <node ref="SVR3" pin="1"/>
+      <node ref="R8" pin="2"/>
+      <node ref="R7" pin="2"/>
+      <node ref="R6" pin="2"/>
+      <node ref="TB1" pin="3"/>
+      <node ref="R5" pin="2"/>
+      <node ref="VR10" pin="1"/>
+      <node ref="VR3" pin="1"/>
+      <node ref="VR14" pin="1"/>
+      <node ref="VR7" pin="1"/>
+      <node ref="VR11" pin="1"/>
+      <node ref="VR5" pin="1"/>
+      <node ref="TB1" pin="1"/>
+      <node ref="VR8" pin="1"/>
+      <node ref="VR13" pin="1"/>
+      <node ref="VR18" pin="1"/>
+      <node ref="VR17" pin="1"/>
+      <node ref="VR6" pin="1"/>
+      <node ref="TB2" pin="1"/>
+      <node ref="VR19" pin="1"/>
+      <node ref="VR2" pin="1"/>
+      <node ref="TB2" pin="3"/>
+      <node ref="VR20" pin="1"/>
+      <node ref="VR1" pin="1"/>
+      <node ref="VR9" pin="1"/>
+      <node ref="J1" pin="4"/>
+      <node ref="U1" pin="1"/>
+      <node ref="VR4" pin="1"/>
+      <node ref="VR15" pin="1"/>
+      <node ref="C1" pin="2"/>
+    </net>
+    <net code="116" name="/PT3">
+      <node ref="TB2" pin="22"/>
+      <node ref="VR5" pin="2"/>
+    </net>
+    <net code="117" name="/PT2">
       <node ref="VR9" pin="2"/>
       <node ref="TB2" pin="23"/>
     </net>
-    <net code="134" name="/SL4">
+    <net code="118" name="/PT1">
+      <node ref="VR13" pin="2"/>
+      <node ref="TB2" pin="24"/>
+    </net>
+    <net code="119" name="Net-(TB1-Pad5)">
+      <node ref="TB1" pin="5"/>
+      <node ref="TB2" pin="5"/>
+      <node ref="U1" pin="23"/>
+    </net>
+    <net code="120" name="Net-(TB1-Pad7)">
+      <node ref="TB1" pin="7"/>
+      <node ref="TB2" pin="7"/>
+      <node ref="U1" pin="25"/>
+    </net>
+    <net code="121" name="/PT13">
+      <node ref="VR16" pin="2"/>
+      <node ref="TB2" pin="9"/>
+    </net>
+    <net code="123" name="Net-(TB1-Pad6)">
+      <node ref="TB1" pin="6"/>
+      <node ref="U1" pin="24"/>
+      <node ref="TB2" pin="6"/>
+    </net>
+    <net code="124" name="Net-(TB1-Pad4)">
+      <node ref="TB1" pin="4"/>
+      <node ref="U1" pin="22"/>
+      <node ref="TB2" pin="4"/>
+    </net>
+    <net code="125" name="/PT18">
+      <node ref="TB1" pin="14"/>
+      <node ref="VR18" pin="2"/>
+    </net>
+    <net code="126" name="/PT20">
+      <node ref="TB1" pin="16"/>
+      <node ref="VR20" pin="2"/>
+    </net>
+    <net code="127" name="/SL2">
+      <node ref="TB1" pin="11"/>
+      <node ref="SVR2" pin="2"/>
+    </net>
+    <net code="128" name="/SL3">
+      <node ref="TB1" pin="10"/>
+      <node ref="SVR3" pin="2"/>
+    </net>
+    <net code="129" name="/SL4">
       <node ref="SVR4" pin="2"/>
       <node ref="TB1" pin="9"/>
     </net>
-    <net code="135" name="/SL3">
-      <node ref="SVR3" pin="2"/>
-      <node ref="TB1" pin="10"/>
+    <net code="130" name="/PT17">
+      <node ref="TB1" pin="13"/>
+      <node ref="VR17" pin="2"/>
+    </net>
+    <net code="131" name="/PT19">
+      <node ref="VR19" pin="2"/>
+      <node ref="TB1" pin="15"/>
     </net>
   </nets>
 </export>
